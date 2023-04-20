@@ -1,0 +1,52 @@
+{
+  "posts": [
+    {
+      "id": 1,
+      "title": "json-server",
+      "author": "typicode"
+    }
+  ],
+  "comments": [
+    {
+      "id": 1,
+      "body": "some comment",
+      "postId": 1
+    }
+  ],
+  "profile": {
+    "name": "typicode"
+  }
+,
+  "employees": 
+    
+    [
+      {
+        "id": 1,
+        "firstName": "Brinn",
+        "lastName": "Jephcote",
+        "email": "bjephcote0@archive.org",
+        "date": "1981-10-05T12:09:39Z",
+        "gender": "Female",
+        "language": "Graduate",
+        "github": "https://github.com/steph21",
+        "competence": "developer fullStack",
+        "experience": "4"
+        
+      },
+      {
+        "id": 1,
+        "firstName": "Joe",
+        "lastName": "Jeph",
+        "email": "joejeph0@archive.org",
+        "date": "1999-17-01T13:01:30Z",
+        "gender": "male",
+        "language": "Graduate",
+        "github": "https://github.com/joe",
+        "competence": "developer backend",
+        "experience": "5"
+        
+      }
+      
+     
+      ]
+}
