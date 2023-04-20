@@ -30,12 +30,12 @@ export class AppComponent {
       'firstName',
       'lastName',
       'email',
-      'dob',
+      'date',
       'gender',
-      'education',
-      'company',
-      'experience',
-      'package',
+      'language',
+      'github',
+      'competence',
+      'experience',      
       'action',
     ];
     dataSource!: MatTableDataSource<any>;
